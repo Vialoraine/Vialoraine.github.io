@@ -44,8 +44,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Hey there, my name is Loreina Salalila. I was born and raised in Long Beach, California. Since high school I began a successful career in Hospitality and Management during which I completed a  Certification in Food and Hospitality, and Management. I stayed in Southern California where I worked for numerous Fortune 500 companies like Cheesecake Factory, a premier hospitality conglomerate. I successfully executed countless events, corporate pitches and managed a number of restaurants in the Los Angeles County.
-            "
+            "Hey there, my name is Loreina Salalila. I was born and raised in Long Beach, California. Since high school I began a successful career in Hospitality and Management during which I completed a  Certification in Food and Hospitality, and Management. I stayed in Southern California where I worked for numerous Fortune 500 companies like Cheesecake Factory, a premier hospitality conglomerate. I successfully executed countless events, corporate pitches and managed a number of restaurants in the Los Angeles County."
         },
         {
           id: "second-p-about",
