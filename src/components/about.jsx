@@ -44,17 +44,18 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Innovative, task-driven professional with experience in web design and development across diverse industries. Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation and networking. Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback."
+            "Hey there, my name is Loreina Salalila. I was born and raised in Long Beach, California. Since high school I began a successful career in Hospitality and Management during which I completed a  Certification in Food and Hospitality, and Management. I stayed in Southern California where I worked for numerous Fortune 500 companies like Cheesecake Factory, a premier hospitality conglomerate. I successfully executed countless events, corporate pitches and managed a number of restaurants in the Los Angeles County.
+            "
         },
         {
           id: "second-p-about",
           content:
-            ""
+            "While I love hospitality, I began feeling a need to express my creativity, and sought a way to combine my experience and background into a more artistic outlet.After considerable research and even more commitment, I enrolled into the University of Irvine's full- time Coding Bootcamp.My empathetic nature, coupled with many years in the Hospitality Industry and Fine Arts knowledge, has prepared me for the successful implementation of User Centered Research and Design. I’m not afraid of hard work, in fact I thrive under intense pressure and stress.I’m looking forward to utilizing my skill set to begin a long and rewarding career as a UX/ UI Designer."
         },
         {
           id: "third-p-about",
           content:
-            ""
+            "I would describe myself as an innovative, task-driven professional with experience in web design and development across diverse industries. I would say I am individual equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation and networking, while proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback."
         }
       ]
     };
