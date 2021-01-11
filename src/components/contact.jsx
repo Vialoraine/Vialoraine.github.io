@@ -108,6 +108,8 @@ class Contact extends React.Component {
                           you.
                           <br />
                           Simply fill the from and send me an email.
+                          <br>
+                            My resume is available to be <a href="https://drive.google.com/file/d/1ipKI1u9lwUeODwOgh1pxX53vB00KM3T2/view">viewed here</a>.</br>
                         </p>
                         {/* <!-- <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
